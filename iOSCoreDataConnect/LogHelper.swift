@@ -7,6 +7,7 @@
 //
 
 import Foundation
+
 let frameworkVersion = "0.0.2"
 let frameworkName = "iOSCoreDataConnect"
 
